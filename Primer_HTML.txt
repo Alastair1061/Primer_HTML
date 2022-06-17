@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Que tal :D ESTA ES UNA RAMA NUEVA</title>
+<title>Que tal :D</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
+<h1>ESTA ES UNA RAMA NUEVA</h1>
 <p>This is a paragraph.</p>
 
 </body>
